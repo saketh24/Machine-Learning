@@ -1,4 +1,4 @@
-# Machine-Learning-CSE-512-
+# Machine Learning
 
 HW1: Exploring probabilistic methods for parameter estimation. Variance/Covariance and Expectations
 
